@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehandywhyy
 - 👀 I’m interested in the field of forensics and pretty much open to learning anything with an open mind :)
-- 🌱 I’m currently learning how to do OSCP :V
+- 🌱 I’m currently curious about anything :>
 - 💞️ I’m looking to collaborate ~~on anything captivating and interesting, but~~ I don't have a lot of time as a student now :/
 - 📫 How to reach me @ andyccs07@gmail.com
 
