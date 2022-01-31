@@ -3,6 +3,7 @@
 - 🌱 I’m currently curious about anything :>
 - 💞️ I’m looking to collaborate ~~on anything captivating and interesting, but~~ I don't have a lot of time as a student now :/
 - 📫 
+- Links: [https://github.com/xfortisfye/loot-box](Notes) and [https://github.com/xfortisfye/303-see-other](Guides)
 
 <!---
 xfortisfye/xfortisfye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
