@@ -5,7 +5,7 @@
 - 📫 Links: [Notes](https://github.com/xfortisfye/loot-box) and [Guides](https://github.com/xfortisfye/303-see-other)
 - If you wish to support me, feel free to tip here :)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xfortisfye)) :)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xfortisfye)
 
 <!---
 xfortisfye/xfortisfye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
